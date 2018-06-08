@@ -1,4 +1,4 @@
-package com.hcl.bootcamp.core;
+package com.hcl.bootcamp.service;
 
 /**
  * @author Bojja
