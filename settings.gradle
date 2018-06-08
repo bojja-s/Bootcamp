@@ -1,3 +1,4 @@
+rootProject.name = 'hcl-bootcamp-java'
 include 'Client'
 include 'Server'
 
