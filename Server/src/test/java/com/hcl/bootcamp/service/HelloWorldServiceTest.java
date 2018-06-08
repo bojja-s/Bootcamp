@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * @author Bojja
  */
-public class MessageServiceTest {
+public class HelloWorldServiceTest {
 
     private HelloWorldService m_HelloWorldService;
 
